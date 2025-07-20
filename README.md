@@ -5,6 +5,7 @@
 - 📫 How to reach me ... rakeshdoddi2003@gmail.com
 - 😄 Pronouns: Chinna
 - ⚡ Fun fact: ... 
+![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36652f61382f63362f36656138633638646661393234626332653661396162653365343733303837612e676966](https://github.com/user-attachments/assets/7f5bbc0c-422f-4fc9-96a9-fa247fe7c6ff)
 
 <!---
 Rakesh6303-tech/Rakesh6303-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
