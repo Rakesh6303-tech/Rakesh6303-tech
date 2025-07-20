@@ -25,7 +25,7 @@ Skills :
 
 
 - 📫 How to reach me ...
-- <img width="48" height="48" alt="68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67" src="https://github.com/user-attachments/assets/3ed18419-8652-4eef-ba97-cc11b9471716" />
+     rakeshdoddi2003@gmail.com
 
 
 <!---
