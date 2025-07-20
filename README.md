@@ -1,12 +1,10 @@
-                      Hi I'm Rakesh
+                      Hi 👋 , I'm Rakesh
                       A Passionate Java Developer
 ![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36652f61382f63362f36656138633638646661393234626332653661396162653365343733303837612e676966](https://github.com/user-attachments/assets/66804e4d-40a9-4fda-9b26-6367bc444aff)
 
-- 👋 Hi, I’m @Rakesh6303-tech
-- 👀 I’m interested in JAVA DEVEVELOPER BACKEND
+
 - 🌱 I’m currently learning and building projects...& Looking for an Opportunity in TECH
 - 💞️ I’m looking to collaborate on ... TECHIES
-- 📫 How to reach me ... rakeshdoddi2003@gmail.com
 - 😄 Pronouns: Chinna
 - ⚡ Fun fact: ... 
 
@@ -26,6 +24,8 @@ Skills :
 <img width="48" height="48" alt="68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f637373332e706e67" src="https://github.com/user-attachments/assets/9d193b39-f3ce-4789-a7fd-1af6481aee87" />
 
 
+- 📫 How to reach me ...
+- <img width="48" height="48" alt="68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67" src="https://github.com/user-attachments/assets/3ed18419-8652-4eef-ba97-cc11b9471716" />
 
 
 <!---
